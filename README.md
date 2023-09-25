@@ -20,7 +20,7 @@ Two deep learning models are used for detecting and classifying lung cancer:
 ## Inception: 
 This is a convolutional neural network (CNN) that uses an Inception architecture with multiple layers to extract high-level features from the images.
 ResNet: This is another CNN that uses a residual network architecture, which allows for easier training of very deep networks.
-Results
+Results.
 The performance of the models is evaluated using metrics such as accuracy, precision, recall, and F1 score. The results show that both models achieve high accuracy in detecting and classifying lung cancer, with the Inception model slightly outperforming the ResNet model.
 
 ## Getting Started
